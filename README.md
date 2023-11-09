@@ -1,6 +1,7 @@
 # EX-9 THRESHOLDING
-### Aim:
-To segment the image using global thresholding,adaptive thresholding and Otsu's thresholding using OpenCV.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 18.10.2023<br>
+### Aim: 
+To segment the image using global thresholding,adaptive thresholding and Otsu's thresholding using OpenCV. 
 ### Software Required:
 Anaconda - Python 3.7 , OpenCV
 ### Algorithm:
